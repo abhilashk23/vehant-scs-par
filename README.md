@@ -1,10 +1,10 @@
 
 # Person Attribute Recognition
 
-This project aims to perform Person Attribute Recognition (PAR) using a pretrained model and fine tunned on downstream task. Below are the steps to set up and run the project.\n
-The *main* branch contains the pipeline for FEAT (Feature Classifier with ResNet50 Backbone) model (best performing model).\n
-The *swin* branch contains the pipeline for SWIN (Shifted Window Transformer) model (second best performing model).\n
-The *beit* branch contains the pipeline for BEiT (Bidirectional Encoder representation from Image Transformers) model (least performing model).\n
+This project aims to perform Person Attribute Recognition (PAR) using a pretrained model and fine tunned on downstream task. Below are the steps to set up and run the project.<br>
+The *main* branch contains the pipeline for FEAT (Feature Classifier with ResNet50 Backbone) model (best performing model).<br>
+The *swin* branch contains the pipeline for SWIN (Shifted Window Transformer) model (second best performing model).<br>
+The *beit* branch contains the pipeline for BEiT (Bidirectional Encoder representation from Image Transformers) model (least performing model).<br>
 
 ## Requirements
 
