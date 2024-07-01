@@ -85,6 +85,9 @@ To install the required packages, run:
 pip install -r requirements.txt
 ```
 
+To directly run the whole pipeline including dataset and models, kindly download the zip from this link and follow the readme instructions.
+https://drive.google.com/file/d/1_r9Vlp6JrAXc4dbdcuQpNqdDNt7Dl5rn/view?usp=sharing
+
 ## Contact
 
 For any questions or issues, please contact 
