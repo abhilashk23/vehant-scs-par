@@ -2,6 +2,9 @@
 # Person Attribute Recognition
 
 This project aims to perform Person Attribute Recognition (PAR) using a pretrained model and fine tunned on downstream task. Below are the steps to set up and run the project.
+The *main* branch contains the pipeline for FEAT (Feature Classifier with ResNet50 Backbone) model (best performing model).
+The *swin* branch contains the pipeline for SWIN (Shifted Window Transformer) model (second best performing model).
+The *beit* branch contains the pipeline for BEiT (Bidirectional Encoder representation from Image Transformers) model (least performing model).
 
 ## Requirements
 
@@ -73,6 +76,9 @@ To install the required packages, run:
 ```bash
 pip install -r requirements.txt
 ```
+
+To run the whole pipeline with dataset and models, kindly download the zip file from the below link:
+https://drive.google.com/file/d/1wmL8f5-FaN6n9Dj7_xpkVgft9bOMnhRu/view?usp=sharing
 
 ## Contact
 
