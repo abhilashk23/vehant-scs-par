@@ -72,8 +72,8 @@ To install the required packages, run:
 ```bash
 pip install -r requirements.txt
 ```
-To directly run the whole pipeline including dataset and models, kindly download the zip from this link and follow the readme instructions. 
-https://drive.google.com/file/d/1-tsxiWLS1YJWUpXf0AZSWVgfFnjobJz5/view?usp=share_link
+## Disclaimer: Shared dataset annotation is the legal property of Vehant Technology; strictly for challenge use only – refrain from using it for any other application or publication, ensure data security, and delete after challenge completion. 
+The dataset is Not shared Because of the above Disclaimer , still you can have look into code for reference.
 
 ## Contact
 
