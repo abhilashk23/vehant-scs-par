@@ -78,10 +78,8 @@ pip install -r requirements.txt
 ```
 
 ## Disclaimer: Shared dataset annotation is the legal property of Vehant Technology; strictly for challenge use only – refrain from using it for any other application or publication, ensure data security, and delete after challenge completion. 
-The dataset is Not shared Because of the above still you can look into code for reference.
+The dataset is Not shared Because of the above Disclaimer , still you can have look into code for reference.
 
-To run the whole pipeline with dataset and models, kindly download the zip file from the below link:
-https://drive.google.com/file/d/1wmL8f5-FaN6n9Dj7_xpkVgft9bOMnhRu/view?usp=sharing
 
 ## Contact
 
